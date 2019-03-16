@@ -4,5 +4,5 @@ def turn_count(board)
     if spots_taken == !(" " || "" || nil)
     turn_count += 1
     end
-  end  
+  end
 end
